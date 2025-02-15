@@ -1,0 +1,1 @@
+//4.Categorize the operators as relational or logical operators or any other <= , == , =, > , &&, || , < , !

@@ -1,0 +1,1 @@
+//1.Accept radius of a circle from the user.Find the area of the circle.[Formula:area = PI * radius * radius]  Note: Declare PI as constant

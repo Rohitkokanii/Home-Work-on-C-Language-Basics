@@ -1,0 +1,1 @@
+//2.Write a program that accepts two numbers as numerator and denominator from the user and display the quotient and remainder.
